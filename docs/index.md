@@ -20,3 +20,5 @@ Follow these general instructions to make a website with _GitHub Pages_.
 7. Open browser to the page.
 
 Get more details in the [GitHub Pages documentation](https://help.github.com/categories/github-pages-basics/).
+
+![Because we all love coffee...](https://unsplash.com/photos/jljMONU2xiU "Coffee Time")
